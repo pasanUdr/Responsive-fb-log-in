@@ -131,7 +131,7 @@ body {
 @media (max-width:700px) {
     .d1 {
         width: 100%;
-        background-color: greenyellow;
+        background-color: rgb(121, 171, 247);
     }
     .i1 {
         width: 400px;
